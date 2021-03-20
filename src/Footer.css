@@ -1,0 +1,13 @@
+.footer{
+    background-color: rgb(41, 40, 40);
+  height: 400px;
+  width: 1550px;
+}
+
+.p1{
+    width: 150px;
+    height: 60px;
+    mix-blend-mode: lighten;
+    margin-top: 250px;
+    margin-left: 600px;
+}

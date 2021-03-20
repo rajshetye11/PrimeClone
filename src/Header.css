@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    outline: none; 
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+
+.header{
+    overflow: hidden;
+    background-color: rgba(22,31, 53, 0.97);
+    
+}
+
+.header a{
+    float: left;
+    font-size: 20px;
+    color: fff;
+    text-align: center;
+    text-decoration: none;
+}
+
+.dropdown{
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn{
+    font-size: 20px;
+    border: none;
+    outline: none;
+    color: #fff;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown-content{
+    display: none;
+    position: relative;
+    background-color: rgba(22, 31, 53, 0.97);
+    min-width: 560px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    height: 400px;
+    float: right;
+
+}
+
+.dropdown-content a{
+    float: none;
+    color: #fff;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover{
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+.primeimg{
+    width: 150px;
+    height: 60px;
+    mix-blend-mode: lighten;
+}
+
+.g{
+    font-size: 24px;
+    margin-top: 14px ;
+    margin-left: 1150px;
+    color: white;
+}
+
+
+.l{
+    background-color: #222;
+    margin: 100px;
+    transform: rotate(90deg);
+    width: 50%;
+    margin-top: -190px;
+}
+
+.d1{
+    margin-top: -290px;
+    margin-left: 300px;
+}
+
+.signin{
+    margin-top: 15px;
+    color: white;
+}
+

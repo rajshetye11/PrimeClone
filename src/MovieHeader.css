@@ -1,0 +1,44 @@
+.movieheader {
+    overflow: hidden;
+    background-color: rgba(22,31, 53, 0.97);
+}
+
+.movie{
+    font-size: 20px;
+    border: none;
+    outline: none;
+    color: #fff;
+    padding: 14px 30px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+    float:right;
+   
+}
+
+.series{
+    font-size: 20px;
+    border: none;
+    outline: none;
+    color: #fff;
+    padding: 14px 30px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+    float: right;
+    
+}
+
+.home{
+    font-size: 20px;
+    border: none;
+    outline: none;
+    color: #fff;
+    padding: 14px 30px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+    float: right;
+    
+    
+}
